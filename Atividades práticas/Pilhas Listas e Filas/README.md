@@ -57,3 +57,7 @@ Os magos do tempo armazenam seus poderosos cristais em uma torre, onde o último
 **Entrega:**
 
 Compartilhe o código Python implementado para cada um dos temas. Certifique-se de que o código esteja bem comentado, explicando cada passo da implementação e o uso das estruturas de dados.
+
+## 🔗 Caso queira visualizar diretamente pelo o Google Colab:
+
+👉 [Acesse Aqui!](https://colab.research.google.com/drive/1mALAlt2cf9VE44wit1u0JhkL52vlHqpR?usp=sharing)
