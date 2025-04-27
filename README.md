@@ -21,4 +21,8 @@ pip install -r requirements.txt
 
 👉 [Acesse aqui!](https://colab.research.google.com/drive/1jNT_Kj39sz1QykkxVK9l1Hy-R_I6-fzi?usp=sharing)
 
+- Acesse para visualizar o repositório sobre Listas encadeadas, ordenadas e árvore binária. Realizada com a colaboração de Brayan Pletsch
+
+👉 [Acesse aqui!](https://github.com/fulldevgabriel/Listas-Encadeadas-Ordenadas-e-AB)
+
 ## 👨‍💻 Feito por [Gabriel Ribeiro](https://www.linkedin.com/in/fulldevgabriel/)
