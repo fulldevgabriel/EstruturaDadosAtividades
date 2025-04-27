@@ -21,4 +21,4 @@ pip install -r requirements.txt
 
 👉 [Acesse aqui!](https://colab.research.google.com/drive/1jNT_Kj39sz1QykkxVK9l1Hy-R_I6-fzi?usp=sharing)
 
-## 👨‍💻 Feito por **devgabriel**
+## 👨‍💻 Feito por [Gabriel Ribeiro](https://www.linkedin.com/in/fulldevgabriel/)
