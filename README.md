@@ -25,4 +25,8 @@ pip install -r requirements.txt
 
 👉 [Acesse aqui!](https://github.com/fulldevgabriel/Listas-Encadeadas-Ordenadas-e-AB)
 
+- Acesse para visualizar a Lista de Revisão para Prova de Estrutura de Dados I utilizando a linguagem Python
+
+👉 [Acesse aqui!](https://colab.research.google.com/drive/1GY2pf8_dL8CaQf6ut2KtWroKhTpdxPiP?usp=sharing)
+
 ## 👨‍💻 Feito por [Gabriel Ribeiro](https://www.linkedin.com/in/fulldevgabriel/)
